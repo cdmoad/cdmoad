@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdmoad&label=Profile%20views&color=0e75b6&style=flat" alt="cdmoad" /> </p>
 
-- 🔭 I’m currently working on [Notes manager](https://github.com/cdmoad/NotesManager)
+<!-- - 🔭 I’m currently working on [Notes manager](https://github.com/cdmoad/NotesManager)   -->
 
 - 🌱 I’m currently learning **Next.js**
 
