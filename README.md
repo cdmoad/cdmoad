@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Notes manager](https://github.com/cdmoad/NotesManager)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
-- 💬 Ask me about **React, Node.js,MongoDB**
+- 💬 Ask me about **React.js, Next.js**
 
 - 📫 How to reach me **moadehrimech22@gmail.com**
 
