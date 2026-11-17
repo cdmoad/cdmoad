@@ -51,12 +51,20 @@ I focus on developing scalable, maintainable, and secure web applications, from 
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cdmoad&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=cdmoad&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Moad's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cdmoad&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=cdmoad&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
